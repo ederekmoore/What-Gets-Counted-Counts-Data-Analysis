@@ -1,7 +1,5 @@
 # What Gets Counted Counts - Data Analysis Project
 
-![Title](./images/Title.png)
-
 A comprehensive data analysis project investigating trends, biases, and opportunities for improvement in dataset collection and usability. This project was completed as part of coursework at The University of Tennessee Knoxville.
 
 ---
@@ -36,24 +34,15 @@ This project examines a dataset through a critical lens to understand what infor
 
 ## Dataset Purpose
 
-![Purpose of Dataset](./images/Purpose%20of%20Dataset.png)
-
-The dataset was designed to track and measure [primary data collection objectives]. Understanding the original intent behind data collection is crucial for identifying:
-- Whether the data achieves its stated purpose
-- Where gaps exist between intended and actual data collection
-- Opportunities to expand or refine measurement approaches
+- The dataset was published by the Agricultural Research Service and was intended to find effective ways to encourage children to be more active.
+- The study included children born between 2004 and 2008, the activity statistics, questionnaire answers, 24-hour recall data and accelerometer data.
+- Likely intended audience is parents, teachers, and anyone in a position to influence children's engagement in physical activity.
 
 ---
 
 ## Project Motivation
 
-![Why We Chose](./images/Why%20We%20Chose.png)
-
-This dataset was selected because:
-- It directly impacts [relevant stakeholders/communities]
-- It reveals important trends about [core subject matter]
-- It highlights how measurement choices shape our understanding of social phenomena
-- The findings have potential to influence future data collection practices
+- The dataset captured my curiosity due to a variety of reasons. Primarily my interest in video games and the potential implications of the hobby.
 
 ---
 
@@ -61,52 +50,33 @@ This dataset was selected because:
 
 ![Collection Methods](./images/Collection.png)
 
-The data collection process involved:
-- **Data Source**: [How data was originally collected]
-- **Timeframe**: [Duration of data collection]
-- **Sample Size**: [Number of records/participants]
-- **Key Variables**: [Primary measures and categories]
-- **Collection Constraints**: [Limitations of the collection process]
-
 ---
 
 ## Data Analysis
 
-![Analysis Overview](./images/Data%20Analysis.png)
-
 Our analysis revealed important trends in the data:
+- AVGs provided only a temporary boost in physical activity.
+- Enjoyment of AVGs did not influence the psychology of already sedentary children.
+- Enjoyment of AVGs did not translate to enjoyment for traditional physical activity.
+- Children tended to overcompensate for energy spend on PA or AVGs with increased sedentary behavior.
+- Missing data includes device calibrations, specific questionnaire questions, AVG titles and environmental contexts such as access to green spaces or neighborhood safety scores.
 
 ### Sedentary Behavior Increase
 
 ![Sedentary Increase Visualization](./images/Sedentary%20Increase%20Vis.png)
 
-One of the most significant findings was a marked increase in sedentary behavior metrics over the study period. This trend suggests:
-- Potential shifts in lifestyle patterns
-- Possible changes in measurement methodology or categorization
-- Important implications for [relevant fields like public health, urban planning, etc.]
-
 ### Physical Activity Decrease
 
 ![Physical Decrease Visualization](./images/Physical%20Decrease%20Vis.png)
 
-Conversely, we observed a corresponding decrease in physical activity metrics, which correlates with:
-- The rise in sedentary classifications
-- Broader societal trends [relevant context]
-- Potential data collection or categorization changes
-
 ---
 
-## Key Findings
+## Additional Elements for Improvement
 
-### Additional Elements & Nuances
-
-![Additional Elements](./images/Additional%20Elements.png)
-
-Beyond the primary trends, our analysis uncovered:
-- [Specific insight from data]
-- [Unexpected pattern or anomaly]
-- [Notable data quality issue]
-- [Emerging sub-trend or demographic difference]
+- Increasing the sample size would allow for a much more widely applicable dataset.
+- Wider age range to include children with potentially different relationships with technology.
+- Tracking sleep time could explain daily changes in physical or sedentary behavior.
+- Including programs or steps to log real time activity data would eliminate the reliance on children's recall memory.
 
 These elements are critical for understanding the complete picture and avoiding oversimplified conclusions.
 
@@ -116,18 +86,6 @@ These elements are critical for understanding the complete picture and avoiding 
 
 ![Power Dynamics Analysis](./images/Power%20Dynamics.png)
 
-A crucial finding of this project is the embedded power dynamics within the dataset:
-
-### How Power Shapes What Gets Measured
-- **Who defined the categories?** The choice of measurement categories reflects the priorities and perspectives of those who designed the data collection
-- **Whose experiences are included/excluded?** Certain groups or experiences may be systematically over- or under-represented
-- **What assumptions are embedded?** Default categorizations often reflect majority-group experiences and may marginalize others
-
-### Identified Biases
-- [Specific bias #1 and its impact]
-- [Specific bias #2 and its impact]
-- [Specific bias #3 and its impact]
-
 ### Why This Matters
 The categories we count shape policy decisions, resource allocation, and societal priorities. When biases exist in what gets counted, they perpetuate inequities in how resources and attention are distributed.
 
@@ -135,48 +93,22 @@ The categories we count shape policy decisions, resource allocation, and societa
 
 ## Study Limitations
 
-![Limitations](./images/Limitations.png)
-
 It's important to acknowledge the constraints of this analysis:
 
-- **Data Scope**: [Temporal, geographic, or demographic limitations]
-- **Collection Bias**: [Known biases in how the original data was gathered]
-- **Categorical Limitations**: [Categories that don't capture full complexity]
-- **Access Constraints**: [Any data we couldn't access or analyze]
-- **Methodological Boundaries**: [Analytical approaches we couldn't employ]
+- The study only took place within a short time frame, from 2016-2018 and only children born between 2004 and 2008 participated in the study.
+- The dataset only included a small sample size of 49 participants, and was incomplete in many areas due to participants leaving before the end of the study.
+- Intervention only took place over the course of 10-weeks.
+- Included only children already labeled as sedentary, and did not include children who do not play sedentary video game.
+- Lacked a real control group.
+- Some of the data relies on child recall memory which can be limited or include inherent bias due to the nature of the intervention.
 
 These limitations don't invalidate our findings but provide important context for interpreting results and guiding future research.
 
 ---
 
-## Proposed Enhancements
-
-![Recommendations](./images/Additional%20Elements.png)
-
-Based on our analysis, we recommend the following improvements for future data collections:
-
-### Immediate Enhancements
-1. **Expand Category Options**: Add granular sub-categories to capture complexity that current binary/simple classifications miss
-2. **Improve Data Validation**: Implement quality checks to identify and correct inconsistencies
-3. **Enhance Metadata Documentation**: Record contextual information about collection methods and known limitations
-4. **Diversify Collection Methods**: Use multiple approaches to cross-verify findings
-
-### Long-term Improvements
-1. **Stakeholder Inclusion**: Involve affected communities in designing categories and measurement approaches
-2. **Regular Bias Audits**: Conduct periodic reviews to identify and address emerging biases
-3. **Comparative Analysis**: Benchmark against other datasets to identify blind spots
-4. **Feedback Mechanisms**: Create systems to gather feedback from data users about missing or problematic elements
-
-### Implementation Priority
-- Start with high-impact changes that require minimal resource investment
-- Build toward systemic improvements that enhance data democracy and inclusion
-- Establish governance structures to ensure ongoing quality and equity
-
----
-
 ## Conclusions
 
-![Conclusion](./images/Conclusion.png)
+- Through our analysis of the dataset, we are able to conclude that providing children with Active Video Games did not translate to an increase in traditional physical activities. Rather, the introduction seemed to cause a general decrease in physical activity and and increase in sedentary activity.
 
 ### Major Takeaways
 
@@ -199,12 +131,9 @@ By asking these questions systematically, we can work toward data systems that b
 
 ![References](./images/References.png)
 
-[Your references would be listed here - please refer to the References slide in the presentation for the complete citation list]
-
 ---
 
 **Project Completed**: University of Tennessee Knoxville  
-**Author**: [Your Name]  
-**Date**: [Project Date]
+**Author**: Evan Moore 
 
 For questions or to discuss findings, please feel free to open an issue in this repository.
