@@ -2,23 +2,6 @@
 
 A comprehensive data analysis project investigating trends, biases, and opportunities for improvement in dataset collection and usability. This project was completed as part of coursework at The University of Tennessee Knoxville.
 
----
-
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Dataset Purpose](#dataset-purpose)
-- [Project Motivation](#project-motivation)
-- [Data Analysis](#data-analysis)
-- [Key Findings](#key-findings)
-- [Power Dynamics & Bias](#power-dynamics--bias)
-- [Study Limitations](#study-limitations)
-- [Proposed Enhancements](#proposed-enhancements)
-- [Conclusions](#conclusions)
-- [References](#references)
-
----
-
 ## Project Overview
 
 ![Introduction](./images/Intro.png)
